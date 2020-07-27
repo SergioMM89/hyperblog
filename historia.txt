@@ -1,5 +1,3 @@
 Este es un archivo creado para hacer pruebas
-hecho para entrenarme en la carrera de platzi de data science
-vamos no pares de aprender
-
-hoy vamos a hablar de su vida y obra maestra
+hecho para la escuela de platzi de data science
+mañana nos enfocaremos en sus vida laboral
