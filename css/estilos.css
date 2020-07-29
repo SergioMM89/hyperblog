@@ -20,3 +20,10 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+    backgorund: #777;
+    color: white;
+    text-align: center;
+    padding: 0;
+}
